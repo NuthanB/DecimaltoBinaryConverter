@@ -1,0 +1,16 @@
+body{
+   background-image: url("1382446.png");
+   background-size: cover;
+}
+.content {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 5px a;
+    margin: auto;
+    color: whitesmoke;
+  }
